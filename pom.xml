@@ -39,6 +39,7 @@
 				<applicationName>worldtimezone-service-abby</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<password>Mulesoft@123</password>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
