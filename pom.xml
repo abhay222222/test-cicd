@@ -36,7 +36,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>worldtimezone-service</applicationName>
+				<applicationName>worldtimezone-service-abby</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<password>Mulesoft@123</password>
 				</cloudHubDeployment>
