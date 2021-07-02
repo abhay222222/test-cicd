@@ -17,7 +17,7 @@ pipeline
   	
   	  	  	stage('Perform Regression Testing'){
   	  	  	steps{
-  			bat 'newman run C:\\Users\asus\\Documents\\Mulesoft\\TimeZOne.postman_collection.json --disable-unicode'
+  			bat 'newman run C:\\Users\\asus\\Documents\\Mulesoft\\TimeZOne.postman_collection.json --disable-unicode'
   			}
   	}
   	
